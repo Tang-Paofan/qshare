@@ -1,0 +1,35 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ml-5{
+    margin-left: 5px;
+}
+
+.ml-10{
+    margin-left: 10px;
+}
+
+.mr-5{
+    margin-right: 5px;
+}
+
+.mr-10{
+    margin-right: 10px;
+}
+
+.el-card-shadow{
+    -webkit-box-shadow: 0 2px 12px 0 rgb(0 0 0 / 10%);
+    box-shadow: 0 2px 12px 0 rgb(0 0 0 / 10%);
+    border-radius: 4px;
+    overflow: hidden;
+    -webkit-transition: .3s;
+    transition: .3s;
+}
+
+.el-border-left{
+    border-left: 5px solid #252a3d;
+    padding-left: 5px;
+}
